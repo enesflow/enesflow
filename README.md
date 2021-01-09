@@ -14,15 +14,21 @@
 
 [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png' align='left' height='40px' alt='Visual Studio Code' ></img>](https://github.com/topics/visual-studio-code) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png' align='left' height='40px' alt='Vim' ></img>](https://github.com/topics/vim)
 
+
+
 ###### Languages
 
  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' align='left' height='40px' alt='HTML' ></img>](https://github.com/topics/html) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' align='left' height='40px' alt='CSS' ></img>](https://github.com/topics/css) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png' align='left' height='40px' alt='SASS' ></img>](https://github.com/topics/sass)[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' align='left' height='40px' alt='JavaScript' ></img>](https://github.com/topics/javascript)[<img src='https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/typescript/typescript.png' align='left' height='40px' alt='NextJS' ></img>](https://github.com/topics/typescript)[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' align='left' height='40px' alt='Python' ></img>](https://github.com/topics/python)
+
+
 
 ###### CSS Frameworks
 
 [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png' align='left' height='40px' alt='Bootstrap' ></img>](https://github.com/topics/bootstrap)
 
 [<img src='https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg' align='left' height='40px' alt='Bulma' ></img>](https://github.com/topics/bulma) [<img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' align='left' height='40px' alt='Materialize' ></img>](https://github.com/topics/materialize)[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png' align='left' height='40px' alt='Express' ></img>](https://github.com/topics/express)
+
+
 
 ###### Other
 
