@@ -32,4 +32,4 @@
 <br/>
 <br/>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=EnxGitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats-five-mauve.vercel.app/api?username=EnxGitHub)](https://github.com/anuraghazra/github-readme-stats)
