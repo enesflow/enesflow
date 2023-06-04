@@ -26,13 +26,13 @@
 
 <img src="https://skillicons.dev/icons?i=bots,godot&theme=light">
 
-## My go-to stacks
+## My go-to stacks
 
 #### The FlutterFire stack
 
 <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=light">
 
-#### The Blazing Fast stack
+#### The Blazing Fast stack
 
 <img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" /><img src="https://skillicons.dev/icons?i=cloudflare,flask,sqlite&theme=light">
 
