@@ -1,5 +1,6 @@
 ## 👋 Hi there, I'm enesflow
 
+![x hits on this profile](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/enesflow/hit-counter)
 ---
 
 #### Languages
@@ -40,6 +41,37 @@
 
 <img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker,svelte,tailwind,postgresql,redis&theme=light">
 
-# </br>
+## Operating Systems
 
-[![Enesflow's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesflow)](https://github.com/enesflow/github-readme-stats)
+I've used many operating systems before, here are some of them
+
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+<img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+
+<img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+
+<img alt="Artix Linux" src="https://img.shields.io/badge/Artix_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+
+<img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white">
+
+<img alt="Void Linux" src="https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+
+<img alt="Suse" src="https://img.shields.io/badge/Suse-0C322C?style=for-the-badge&logo=suse&logoColor=white">
+
+<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
+
+<img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+<img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+
+#
+
+[![Enesflow's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesflow&theme=tokyonight)](https://github.com/enesflow/)
+
+[![Enesflow's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enesflow&theme=tokyonight)](https://github.com/enesflow/)
+
+[![Enesflow's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesflow&theme=tokyonight)](https://github.com/enesflow/)
