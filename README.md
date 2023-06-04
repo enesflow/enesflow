@@ -12,7 +12,7 @@
 
 #### Frameworks and Libraries
 
-<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" /><img src="https://skillicons.dev/icons?i=svelte,vue,react,threejs,nextjs,nodejs,express,flask,tailwindcss,sass,flutter,tensorflow&theme=light"><img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /><img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /><img alt="Numpy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><img alt="OpenCV" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=svelte,vue,react,threejs,nextjs,nodejs,express,flask,tailwindcss,sass,flutter,tensorflow&theme=light">&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /><img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;<img alt="Numpy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 
 #### Databases
 
@@ -20,7 +20,7 @@
 
 #### Tools
 
-<img alt="Jetbrains" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vim,neovim,vscode,vite&theme=light">
+<img alt="Jetbrains" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vim,neovim,vscode,vite&theme=light">
 
 #### Others
 
@@ -34,11 +34,11 @@
 
 #### The Blazing Fast stack
 
-<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" /><img src="https://skillicons.dev/icons?i=cloudflare,flask,sqlite&theme=light">
+<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cloudflare,flask,sqlite&theme=light">
 
 #### The PSPR stack
 
-<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /><img src="https://skillicons.dev/icons?i=docker,svelte,tailwind,postgresql,redis&theme=light">
+<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker,svelte,tailwind,postgresql,redis&theme=light">
 
 # </br>
 
