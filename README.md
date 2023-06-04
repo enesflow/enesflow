@@ -4,7 +4,7 @@
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,typescript,elixir,bash,dart&theme=light">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,typescript,elixir,dart,bash&theme=light">
 
 #### Cloud
 
