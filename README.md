@@ -41,14 +41,13 @@
 
 <img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker,svelte,tailwind,postgresql,redis&theme=light">
 
-## Operating Systems
+## Operating Systems
 
 I've used many operating systems before, here are some of them
 
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;<img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">&nbsp;<img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">&nbsp;<img alt="Artix Linux" src="https://img.shields.io/badge/Artix_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">&nbsp;<img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white">&nbsp;<img alt="Void Linux" src="https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=linux&logoColor=white">&nbsp;<img alt="Suse" src="https://img.shields.io/badge/Suse-0C322C?style=for-the-badge&logo=suse&logoColor=white">&nbsp;<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">&nbsp;<img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;<img alt="Windows 11" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-
-#
+# Stats
 
 [![Enesflow's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesflow&theme=tokyonight)](https://github.com/enesflow/)
 
