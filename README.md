@@ -44,10 +44,6 @@
 
 <img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cloudflare,flask,sqlite&theme=light">
 
-#### The PSPR stack
-
-<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker,svelte,tailwind,postgresql,redis&theme=light">
-
 ## Operating Systems
 
 I've used many operating systems before, here are some of them
