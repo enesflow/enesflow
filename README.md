@@ -3,9 +3,16 @@
 ![x hits on this profile](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/enesflow/hit-counter)
 ---
 
+### Planning to learn/learning
+
+
+<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=deno,rust,rocket,docker,kubernetes,redis,rabbitmq,graphql&theme=light">
+
+---
+
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,typescript,elixir,dart,bash&theme=light">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,typescript,elixir,dart,bash&theme=light"/>
 
 #### Cloud
 
