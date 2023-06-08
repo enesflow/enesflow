@@ -6,7 +6,7 @@
 ### Planning to learn/learning
 
 
-<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=deno,rust,rocket,docker,kubernetes,redis,rabbitmq,graphql&theme=light">
+<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=deno,rust,rocket,docker,kubernetes,redis,rabbitmq,graphql&theme=light">
 
 ---
 
