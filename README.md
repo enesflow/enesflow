@@ -5,7 +5,7 @@
 
 ### Planning to learn
 
-<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=deno,actix,kubernetes,rabbitmq,graphql&theme=light">
+<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=deno,actix,kubernetes,rabbitmq&theme=light">
 
 ### Actively learning
 
