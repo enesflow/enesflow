@@ -9,7 +9,7 @@
 
 ### Learning
 
-<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,rust,redis&theme=dark">
+<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=rust,figma,redis&theme=dark">
 
 ---
 
