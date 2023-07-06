@@ -3,49 +3,41 @@
 ![x hits on this profile](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/enesflow/hit-counter)
 ---
 
-### Planning to learn
+### Interested in
 
-<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=deno,actix,kubernetes,rabbitmq&theme=light">
+<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jest,kubernetes,deno,actix,rabbitmq,lit,tauri&theme=dark">
 
-### Actively learning
+### Learning
 
-<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=rust,docker,redis,graphql,prisma&theme=light">
+<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,rust,redis&theme=dark">
 
 ---
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,typescript,elixir,dart,bash&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,python,elixir,dart,bash&theme=dark"/>
 
 #### Cloud
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50px" /><img src="https://skillicons.dev/icons?i=cloudflare,firebase,aws,heroku,netlify,replit&theme=light">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50px" /><img src="https://skillicons.dev/icons?i=cloudflare,workers,firebase,aws,heroku,netlify,replit&theme=dark">
 
 #### Frameworks and Libraries
 
-<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=svelte,vue,react,nextjs,jquery,threejs,nodejs,express,flask,tailwindcss,sass,flutter,tensorflow&theme=light">&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /><img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;<img alt="Numpy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;<img alt="TRPC" height="50px" src="https://trpc.io/img/logo.svg" />&nbsp;&nbsp;<img alt="Zod" height="50px" src="https://zod.dev/logo.svg" />&nbsp;&nbsp;<img alt="Numpy" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+
+<img src="https://skillicons.dev/icons?i=svelte,jquery,sass,prisma,apollo,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=7">
 
 #### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,redis&theme=light">
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb,redis&theme=dark">
 
 #### Tools
 
-<img alt="Jetbrains" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vim,neovim,vscode,vite&theme=light">
+<img alt="Jetbrains" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,docker,postman,github,linux,vim,neovim,vscode,vite&theme=dark">
 
 #### Others
 
-<img src="https://skillicons.dev/icons?i=bots,godot&theme=light">
-
-## My go-to stacks
-
-#### The FlutterFire stack
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=light">
-
-#### The Blazing Fast stack
-
-<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cloudflare,flask,sqlite&theme=light">
+<img src="https://skillicons.dev/icons?i=bots,godot&theme=dark">
 
 ## Operating Systems
 
