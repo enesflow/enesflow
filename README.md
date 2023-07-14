@@ -5,7 +5,7 @@
 
 ### Interested in
 
-<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jest,kubernetes,deno,actix,rabbitmq,lit,tauri&theme=dark">
+<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;<img src="https://skillicons.dev/icons?i=jest,kubernetes,deno,actix,rabbitmq,lit,tauri&theme=dark">
 
 ### Learning
 
