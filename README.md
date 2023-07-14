@@ -19,17 +19,17 @@
 
 #### Cloud
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50px" /><img src="https://skillicons.dev/icons?i=cloudflare,workers,firebase,aws,heroku,netlify,replit&theme=dark">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50px" /><img src="https://skillicons.dev/icons?i=heroku,cloudflare,workers,firebase,aws,netlify,replit&theme=dark">
 
 #### Frameworks and Libraries
 
 <img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;<img alt="Zod" height="50px" src="https://zod.dev/logo.svg" />&nbsp;&nbsp;<img alt="Numpy" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />&nbsp;&nbsp;<img alt="TRPC" height="50px" src="https://trpc.io/img/logo.svg" />
 
-<img src="https://skillicons.dev/icons?i=svelte,jquery,sass,prisma,apollo,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=7">
+<img src="https://skillicons.dev/icons?i=svelte,jquery,sass,prisma,apollo,styledcomponents,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=7">
 
 #### Databases
 
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb,redis&theme=dark">
+<img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgresql,redis&theme=dark">
 
 #### Tools
 
