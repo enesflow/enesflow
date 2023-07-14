@@ -9,7 +9,7 @@
 
 ### Learning
 
-<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=rust,figma,redis&theme=dark">
+<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /><img alt="Imba" height="50px" src="https://raw.githubusercontent.com/imba/branding-imba/master/yellow-wing-logo/imba.svg">&nbsp;<img src="https://skillicons.dev/icons?i=rust,figma,redis&theme=dark">
 
 ---
 
@@ -23,7 +23,7 @@
 
 #### Frameworks and Libraries
 
-<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;<img alt="TRPC" height="50px" src="https://trpc.io/img/logo.svg" />&nbsp;&nbsp;<img alt="Zod" height="50px" src="https://zod.dev/logo.svg" />&nbsp;&nbsp;<img alt="Numpy" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;<img alt="Zod" height="50px" src="https://zod.dev/logo.svg" />&nbsp;&nbsp;<img alt="Numpy" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />&nbsp;&nbsp;<img alt="TRPC" height="50px" src="https://trpc.io/img/logo.svg" />
 
 <img src="https://skillicons.dev/icons?i=svelte,jquery,sass,prisma,apollo,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=7">
 
@@ -47,8 +47,9 @@ I've used many operating systems before, here are some of them
 
 # Stats
 
-[![Enesflow's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesflow&theme=tokyonight)](https://github.com/enesflow/)
-
-[![Enesflow's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enesflow&theme=tokyonight)](https://github.com/enesflow/)
-
-[![Enesflow's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesflow&theme=tokyonight)](https://github.com/enesflow/)
+<a href="https://github.com/enesflow">
+  <img align="center" src="https://github-readme-stats-eight-phi-59.vercel.app/api?username=enesflow&theme=dark" />
+</a>
+<a href="https://github.com/enesflow">
+  <img align="center" src="https://github-readme-stats-eight-phi-59.vercel.app/api/top-langs/?username=enesflow&layout=compact&exclude_repo=enesflow.github.io&theme=dark" />
+</a>
