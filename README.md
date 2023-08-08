@@ -1,5 +1,5 @@
 <a href="https://dockease.com">
-  <img align="center" src="./dockease-banner-new.png" alt="Dockease Banner" />
+  <img align="center" src="./dockease-banner-new-fix.png" alt="Dockease Banner" />
 </a>
     
 ## 👋 Hi there, I'm enesflow
