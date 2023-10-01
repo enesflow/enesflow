@@ -9,7 +9,7 @@
 
 ### Interested in
 
-<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;<img src="https://skillicons.dev/icons?i=jest,kubernetes,deno,actix,rabbitmq,lit,tauri&theme=dark">
+<img src="https://skillicons.dev/icons?i=kubernetes,actix,rabbitmq,lit&theme=dark">
 
 ### Learning
 
