@@ -9,11 +9,11 @@
 
 ### Interested in
 
-<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;<img src="https://skillicons.dev/icons?i=jest,kubernetes,deno,actix,rabbitmq,lit,tauri&theme=dark">
+<img alt="fresh" height="50px" src="https://raw.githubusercontent.com/enesflow/enesflow/main/fresh.png"/>&nbsp;<img src="https://skillicons.dev/icons?i=jest,kubernetes,deno,actix,rabbitmq,lit,tauri&theme=dark">
 
 ### Learning
 
-<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" /><img alt="Imba" height="50px" src="https://raw.githubusercontent.com/imba/branding-imba/master/yellow-wing-logo/imba.svg">&nbsp;<img src="https://skillicons.dev/icons?i=rust,figma,redis&theme=dark">
+<img src="https://skillicons.dev/icons?i=rust,figma,kotlin,wasm&theme=dark&perline=10">
 
 ---
 
@@ -27,10 +27,10 @@
 
 #### Frameworks and Libraries
 
-<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;<img alt="Zod" height="50px" src="https://zod.dev/logo.svg" />&nbsp;&nbsp;<img alt="Numpy" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />&nbsp;&nbsp;<img alt="TRPC" height="50px" src="https://trpc.io/img/logo.svg" />&nbsp;&nbsp;<img alt="React Email" width="50px" src="https://www.saashub.com/images/app/service_logos/231/cpoksgajl2rz/large.png?1674081654" />&nbsp;&nbsp;<img src="https://github.com/enesflow/enesflow/assets/65719051/010d6d53-4982-4f01-a8d1-a78cf4f2cfcc" alt="Fastify" width="50px" />
+<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;&nbsp;<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;<img alt="Zod" height="50px" src="https://zod.dev/logo.svg" />&nbsp;&nbsp;<img alt="Numpy" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />&nbsp;&nbsp;<img alt="TRPC" height="50px" src="https://trpc.io/img/logo.svg" />&nbsp;&nbsp;<img alt="React Email" width="50px" src="https://www.saashub.com/images/app/service_logos/231/cpoksgajl2rz/large.png?1674081654" />&nbsp;&nbsp;<img src="https://github.com/enesflow/enesflow/assets/65719051/010d6d53-4982-4f01-a8d1-a78cf4f2cfcc" alt="Fastify" width="50px" />
 
 
-<img src="https://skillicons.dev/icons?i=svelte,jquery,sass,prisma,apollo,styledcomponents,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=9">
+<img src="https://skillicons.dev/icons?i=svelte,jquery,sass,prisma,apollo,styledcomponents,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=10">
 
 #### Databases
 
