@@ -27,7 +27,7 @@
 
 #### Frameworks and Libraries
 
-<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=bun,qwik,phoenix,jupyter,zod,opencv,trpc,reactemail,fastify,svelte,jquery,sass,prisma,apollo,styledcomponents,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=10">
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=bun,qwik,phoenix,jupyter,zod,opencv,reactemail,fastify,svelte,jquery,sass,prisma,apollo,styledcomponents,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=10">
 
 #### Databases
 
