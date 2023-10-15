@@ -9,28 +9,25 @@
 
 ### Interested in
 
-<img src="https://skillicons.dev/icons?i=kubernetes,actix,rabbitmq,lit&theme=dark">
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=kubernetes,actix,rabbitmq,lit&theme=dark">
 
 ### Learning
 
-<img src="https://skillicons.dev/icons?i=rust,figma,kotlin,wasm&theme=dark&perline=10">
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=rust,figma,kotlin,wasm&theme=dark&perline=10">
 
 ---
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,python,elixir,dart,bash&theme=dark"/>
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=html,css,javascript,typescript,cpp,python,elixir,dart,bash&theme=dark"/>
 
 #### Cloud
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50px" /><img src="https://skillicons.dev/icons?i=heroku,cloudflare,workers,firebase,aws,netlify,replit&theme=dark">
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=colab,heroku,cloudflare,workers,firebase,aws,netlify,replit&theme=dark">
 
 #### Frameworks and Libraries
 
-<img alt="bun" src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="40px" />&nbsp;&nbsp;<img alt="Qwik" width="44px" src="https://raw.githubusercontent.com/BuilderIO/qwik/4ddb1f1382dbbd0c2651893625fc91c6cac5eb7c/packages/docs/public/logos/qwik-logo.svg" />&nbsp;&nbsp;<img alt="Phoenix" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />&nbsp;&nbsp;<img alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;<img alt="Zod" height="50px" src="https://zod.dev/logo.svg" />&nbsp;&nbsp;<img alt="Numpy" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;<img alt="OpenCV" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />&nbsp;&nbsp;<img alt="TRPC" height="50px" src="https://trpc.io/img/logo.svg" />&nbsp;&nbsp;<img alt="React Email" width="50px" src="https://www.saashub.com/images/app/service_logos/231/cpoksgajl2rz/large.png?1674081654" />&nbsp;&nbsp;<img src="https://github.com/enesflow/enesflow/assets/65719051/010d6d53-4982-4f01-a8d1-a78cf4f2cfcc" alt="Fastify" width="50px" />
-
-
-<img src="https://skillicons.dev/icons?i=svelte,jquery,sass,prisma,apollo,styledcomponents,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=10">
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=bun,qwik,phoenix,jupyter,zod,opencv,trpc,reactemail,fastify,svelte,jquery,sass,prisma,apollo,styledcomponents,processing,vue,react,nextjs,threejs,nodejs,express,flask,tailwindcss,flutter,tensorflow,graphql&theme=dark&perline=10">
 
 #### Databases
 
@@ -38,7 +35,7 @@
 
 #### Tools
 
-<img alt="Jetbrains" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,docker,postman,github,linux,vim,neovim,vscode,vite&theme=dark">
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=jetbrains,git,docker,postman,github,linux,vim,neovim,vscode,vite&theme=dark">
 
 #### Others
 
