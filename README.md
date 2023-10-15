@@ -50,7 +50,7 @@ I've used many operating systems before, here are some of them
 # Stats
 
 <a href="https://github.com/enesflow">
-  <img align="center" src="https://github-readme-stats-eight-phi-59.vercel.app/api?username=enesflow&theme=dark" />
+  <img align="center" src="https://github-readme-stats-eight-phi-59.vercel.app/api?theme=dark&username=enesflow" />
 </a>
 <a href="https://github.com/enesflow">
   <img align="center" src="https://github-readme-stats-eight-phi-59.vercel.app/api/top-langs/?username=enesflow&layout=compact&exclude_repo=enesflow.github.io&theme=dark" />
