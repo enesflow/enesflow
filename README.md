@@ -9,7 +9,7 @@
 
 ### Interested in
 
-<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=kubernetes,actix,rabbitmq,lit,blender,bevy,cassandra,dotnet,cs,java,haskell,ktor,php,laravel,lua,materialui,planetscale,v,gitlab&theme=dark&perline=10">
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=kubernetes,actix,rabbitmq,lit,blender,bevy,cassandra,dotnet,cs,java,haskell,ktor,php,laravel,lua,materialui,planetscale,v,gitlab,swift&theme=dark&perline=10">
 
 ### Learning
 
