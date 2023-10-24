@@ -13,7 +13,7 @@
 
 ### Learning
 
-<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=rust,figma,kotlin,wasm&theme=dark&perline=10">
+<img src="https://skill-icons.eneskavcakar34.workers.dev/icons?i=rust,rocket,figma,kotlin,wasm&theme=dark&perline=10">
 
 ---
 
