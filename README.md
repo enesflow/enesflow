@@ -1,8 +1,4 @@
 # [Try « Enes Sözlük 📕 »](https://enessozluk.pages.dev)
-
-<a href="https://dockease.com">
-  <img align="center" src="./dockease-banner-new-fix.png" alt="Dockease Banner" />
-</a>
     
 ## 👋 Hi there, I'm enesflow
 
